@@ -1,0 +1,8 @@
+
+ Train_no                : 1222
+ Source                  : pune
+ Destination             : goa
+ Date                    : 34
+ Total_fare(Without_Ins) : 6000.00
+ Total_fare(With_Ins)    : 6002.00
+ 

@@ -1,0 +1,20 @@
+Source      :pune
+Destination :mumbai
+Date        :06/12/21
+No. of Passengers : 2
+
+Name            :shubham bodake
+Age             :20
+Gender          :M
+Mobile No       :9898989898
+Email ID        :shubham@gmail.com
+ID No           :3434343434
+Class of Travel :SL
+
+Name            :deven
+Age             :23
+Gender          :M
+Mobile No       :8888888888
+Email ID        :deven@gmail.com
+ID No           :4444444444
+Class of Travel :SL

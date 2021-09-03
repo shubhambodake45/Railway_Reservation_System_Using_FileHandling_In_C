@@ -1,0 +1,20 @@
+Source      :pune
+Destination :goa
+Date        :234
+No. of Passengers : 2
+
+Name            :ram
+Age             :34
+Gender          :M
+Mobile No       :3333333333
+Email ID        :wer
+ID No           :2222222222
+Class of Travel :SL
+
+Name            :shyam
+Age             :45
+Gender          :M
+Mobile No       :3333333333
+Email ID        :qe
+ID No           :2222222222
+Class of Travel :SL

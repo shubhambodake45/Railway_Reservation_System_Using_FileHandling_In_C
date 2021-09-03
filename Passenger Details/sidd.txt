@@ -1,0 +1,20 @@
+Source      :pune
+Destination :mumbai
+Date        :234
+No. of Passengers : 2
+
+Name            :sidd
+Age             :34
+Gender          :M
+Mobile No       :2222222222
+Email ID        :ewq
+ID No           :1212121212
+Class of Travel :SL
+
+Name            :john
+Age             :45
+Gender          :M
+Mobile No       :2323232323
+Email ID        :wer
+ID No           :2323232323
+Class of Travel :SL

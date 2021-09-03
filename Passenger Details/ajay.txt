@@ -1,0 +1,20 @@
+Source      :pune
+Destination :goa
+Date        :34
+No. of Passengers : 2
+
+Name            :ajay
+Age             :34
+Gender          :M
+Mobile No       :3333333333
+Email ID        :qwre
+ID No           :2222222222
+Class of Travel :SL
+
+Name            :werwert
+Age             :34
+Gender          :M
+Mobile No       :3333333333
+Email ID        :wertfd
+ID No           :4444444444
+Class of Travel :SL

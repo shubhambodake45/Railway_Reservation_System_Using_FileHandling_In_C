@@ -1,0 +1,12 @@
+Source      :pune
+Destination :mumbai
+Date        :06/23/21
+No. of Passengers : 1
+
+Name            :shubham
+Age             :23
+Gender          :M
+Mobile No       :9898989898
+Email ID        :shubham@gmail.com
+ID No           :9999999999
+Class of Travel :SL
